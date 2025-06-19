@@ -79,4 +79,4 @@ With this tool:
 ✅ Recruiters can send dynamic company briefs to job applicants  
 ✅ Investors get concise insights about a firm without digging
 
-**→ It brings scalable, automated brand storytelling to life.**
+ 
